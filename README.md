@@ -24,7 +24,6 @@
 <summary><h3>:wrench: Ultimos proyectos</h3></summary> 
 :pushpin: Twitter Webscrapper
 
-:pushpin: Mercado Libre Webscrapper
 </details>
 
 ---
