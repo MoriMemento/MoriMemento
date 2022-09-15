@@ -30,3 +30,5 @@
 ---
 
 ### Podes encontrarme en [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/veronoctavio/) o contactarme por <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" href=mailto:veronmm01@gmail.com>
+
+<img src="https://user-images.githubusercontent.com/113061341/190284030-d180df70-57ca-478b-8d46-92a2a5f13db4.jpg">
